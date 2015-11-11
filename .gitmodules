@@ -1,6 +1,9 @@
 [submodule "app_minecraft"]
 	path = app_minecraft
 	url = git://github.com/riyic/app_minecraft.git
+[submodule "appserver_apache"]
+	path = appserver_apache
+	url = git://github.com/riyic/appserver_apache.git
 [submodule "app_moodle"]
 	path = app_moodle
 	url = git://github.com/riyic/app_moodle.git
