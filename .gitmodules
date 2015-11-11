@@ -28,9 +28,6 @@
 [submodule "app_ruby"]
 	path = app_ruby
 	url = git://github.com/riyic/app_ruby.git
-[submodule "appserver_apache"]
-	path = appserver_apache
-	url = git://github.com/riyic/appserver_apache.git
 [submodule "appserver_fpm"]
 	path = appserver_fpm
 	url = git://github.com/riyic/appserver_fpm.git
