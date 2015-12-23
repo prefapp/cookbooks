@@ -103,3 +103,7 @@
 [submodule "system_user"]
 	path = system_user
 	url = git://github.com/riyic/system_user.git
+[submodule "nginx"]
+	path = nginx
+    url = git://github.com/alambike/nginx.git
+    branch = patch-1
