@@ -142,3 +142,7 @@
 	path = nginx
     url = git://github.com/alambike/nginx.git
     branch = patch-1
+[submodule "app_phpback"]
+	path = app_phpback
+	url = git://github.com/riyic/app_phpback.git
+	branch = master
