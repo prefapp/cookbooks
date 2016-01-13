@@ -1,105 +1,148 @@
 [submodule "app_minecraft"]
 	path = app_minecraft
 	url = git://github.com/riyic/app_minecraft.git
+    branch = master
 [submodule "appserver_apache"]
 	path = appserver_apache
 	url = git://github.com/riyic/appserver_apache.git
+    branch = master
 [submodule "app_moodle"]
 	path = app_moodle
 	url = git://github.com/riyic/app_moodle.git
+    branch = master
 [submodule "app_odoo"]
 	path = app_odoo
 	url = git://github.com/riyic/app_odoo.git
+    branch = master
 [submodule "app_owncloud"]
 	path = app_owncloud
 	url = git://github.com/riyic/app_owncloud.git
+    branch = master
 [submodule "app_perl"]
 	path = app_perl
 	url = git://github.com/riyic/app_perl.git
+    branch = master
 [submodule "app_php"]
 	path = app_php
 	url = git://github.com/riyic/app_php.git
+    branch = master
 [submodule "app_phplist"]
 	path = app_phplist
 	url = git://github.com/riyic/app_phplist.git
+    branch = master
 [submodule "app_python"]
 	path = app_python
 	url = git://github.com/riyic/app_python.git
+    branch = master
 [submodule "app_redmine"]
 	path = app_redmine
 	url = git://github.com/riyic/app_redmine.git
+    branch = master
 [submodule "app_ruby"]
 	path = app_ruby
 	url = git://github.com/riyic/app_ruby.git
+    branch = master
 [submodule "appserver_fpm"]
 	path = appserver_fpm
 	url = git://github.com/riyic/appserver_fpm.git
+    branch = master
 [submodule "appserver_nginx"]
 	path = appserver_nginx
 	url = git://github.com/riyic/appserver_nginx.git
+    branch = master
 [submodule "appserver_uwsgi"]
 	path = appserver_uwsgi
 	url = git://github.com/riyic/appserver_uwsgi.git
+    branch = master
 [submodule "app_wordpress"]
 	path = app_wordpress
 	url = git://github.com/riyic/app_wordpress.git
+    branch = master
 [submodule "code_repo"]
 	path = code_repo
 	url = git://github.com/riyic/code_repo.git
+    branch = master
 [submodule "dbs_mongodb"]
 	path = dbs_mongodb
 	url = git://github.com/riyic/dbs_mongodb.git
+    branch = master
 [submodule "dbs_mysql"]
 	path = dbs_mysql
 	url = git://github.com/riyic/dbs_mysql.git
+    branch = master
 [submodule "dbs_postgresql"]
 	path = dbs_postgresql
 	url = git://github.com/riyic/dbs_postgresql.git
+    branch = master
 [submodule "dbs_redis"]
 	path = dbs_redis
 	url = git://github.com/riyic/dbs_redis.git
+    branch = master
 [submodule "lang_java"]
 	path = lang_java
 	url = git://github.com/riyic/lang_java.git
+    branch = master
 [submodule "lang_nodejs"]
 	path = lang_nodejs
 	url = git://github.com/riyic/lang_nodejs.git
+    branch = master
 [submodule "lang_perl"]
 	path = lang_perl
 	url = git://github.com/riyic/lang_perl.git
+    branch = master
 [submodule "lang_php"]
 	path = lang_php
 	url = git://github.com/riyic/lang_php.git
+    branch = master
 [submodule "lang_python"]
 	path = lang_python
 	url = git://github.com/riyic/lang_python.git
+    branch = master
 [submodule "lang_ruby"]
 	path = lang_ruby
 	url = git://github.com/riyic/lang_ruby.git
+    branch = master
 [submodule "mq_zeromq"]
 	path = mq_zeromq
 	url = git://github.com/riyic/mq_zeromq.git
+    branch = master
 [submodule "pcs_supervisor"]
 	path = pcs_supervisor
 	url = git://github.com/riyic/pcs_supervisor.git
+    branch = master
 [submodule "riyic"]
 	path = riyic
 	url = git://github.com/riyic/riyic.git
+    branch = master
 [submodule "shell_lshell"]
 	path = shell_lshell
 	url = git://github.com/riyic/shell_lshell.git
+    branch = master
 [submodule "system_cron"]
 	path = system_cron
 	url = git://github.com/riyic/system_cron.git
+    branch = master
 [submodule "system_group"]
 	path = system_group
 	url = git://github.com/riyic/system_group.git
+    branch = master
 [submodule "system_openssh"]
 	path = system_openssh
 	url = git://github.com/riyic/system_openssh.git
+    branch = master
 [submodule "system_package"]
 	path = system_package
 	url = git://github.com/riyic/system_package.git
+    branch = master
 [submodule "system_user"]
 	path = system_user
 	url = git://github.com/riyic/system_user.git
+    branch = master
+[submodule "nginx"]
+	path = nginx
+    url = git://github.com/alambike/nginx.git
+    branch = patch-1
+[submodule "app_phpback"]
+	path = app_phpback
+	url = git://github.com/riyic/app_phpback.git
+	branch = master
